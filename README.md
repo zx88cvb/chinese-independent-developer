@@ -20,6 +20,10 @@
 
 ## 3. 项目列表
 
+### 2026 年 3 月 4 号添加
+#### HaydenBi(武汉) - [博客](https://haydenbi.com)
+* :white_check_mark: [Pixalice](https://pixalice.com)：AI 生图 + 视频生成平台 内置多个图片模板，一键生成，支持 Nano Banana, Seedream 等多种模型
+
 ### 2026 年 3 月 2 号添加
 #### 我是欧阳 - [Github](https://github.com/iamouyang21)
 * :white_check_mark: [Nano Banana 2](https://nanobanana-2.xyz)：AI 生图工具，Nano Banana 2 是面向设计师、运营和内容创作者的在线 AI 生图工具，支持「预设工坊 + 自由创作」双模式，内置多种风格模板与 50+ 涂鸦字体，输入文字即可快速生成高质量图片；同时支持多语言文字渲染、参数可调、浏览器即开即用。最新上线的批量生图功能可一次生成多张或多版本图片，适合海报、电商素材和社媒内容的规模化生产，显著提升出图效率
